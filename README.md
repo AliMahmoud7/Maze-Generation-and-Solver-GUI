@@ -1,2 +1,14 @@
-# Maze-Generation-and-Solver-GUI
-Depth-first search Recursive backtracking algorithm using (Python3 + Tkinter GUI)
+# Maze-Generation-and-Solver-Python3-GUI
+Maze generation and solving algorithms are automated methods for the creation and solving of mazes
+
+# This project based on:
+1. Depth-first search algorithm and It's implemented using Recursive backtracking.
+2. Python3 [functions - oop]
+3. Tkinter GUI [canvas]
+
+For more info about maze algorithms:
+- https://en.wikipedia.org/wiki/Maze_generation_algorithm
+- https://en.wikipedia.org/wiki/Maze_solving_algorithm
+
+Tutorial for this project
+>> soon!
