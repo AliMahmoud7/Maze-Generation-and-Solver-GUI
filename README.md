@@ -10,5 +10,7 @@ For more info about maze algorithms:
 - https://en.wikipedia.org/wiki/Maze_generation_algorithm
 - https://en.wikipedia.org/wiki/Maze_solving_algorithm
 
+I'm still working...
+
 Tutorial for this project
 >> soon!
