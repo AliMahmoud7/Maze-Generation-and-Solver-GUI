@@ -1,7 +1,7 @@
-# Maze-Generation-and-Solver-Python3-GUI
+# Maze-Generator-and-Solver-Python3-GUI
 Maze generation and solving algorithms are automated methods for the creation and solving of mazes
 
-# This project based on:
+### This project based on:
 1. Depth-first search algorithm and It's implemented using Recursive backtracking.
 2. Python3 [functions - oop]
 3. Tkinter GUI [canvas]
